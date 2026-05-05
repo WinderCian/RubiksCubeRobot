@@ -8,4 +8,9 @@ This folder contains the CAD Models for the RubiksCubeSolver. In order to create
  6 × Centre Cap Grip
  6 × Motor Rod
  24 × Nuts & Bolts (M3 × 10mm) 
- 
+
+
+Cían Winder
+cian.winder.2022@mumail.ie
+cjiwinder2@gmail.com
+21424916
